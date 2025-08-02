@@ -12,6 +12,7 @@ const Footer = () => {
           |
           <a href="/terms" className="text-white hover:underline mx-2">Terms of Service</a>
         </p>
+        <p>Assure Holdings Corp.</p>
       </div>
     </footer>
   );
